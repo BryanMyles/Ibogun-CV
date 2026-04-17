@@ -71,5 +71,53 @@ export const products: Product[] = [
     price: 15000,
     category: "Engineering Tools & PPE",
     image: "https://images.unsplash.com/photo-1588661642289-4b68e987c2fb?q=80&w=2128&auto=format&fit=crop"
+  },
+  {
+    id: "p9",
+    name: "MacBook Pro M2 14-inch",
+    description: "Professional grade laptop for coding, design, and heavy rendering workflows.",
+    price: 1850000,
+    category: "Laptops",
+    image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=2026&auto=format&fit=crop"
+  },
+  {
+    id: "p10",
+    name: "Sony WH-1000XM5",
+    description: "Industry-leading wireless noise cancellation headphones.",
+    price: 320000,
+    category: "Accessories",
+    image: "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?q=80&w=2188&auto=format&fit=crop"
+  },
+  {
+    id: "p11",
+    name: "Dell UltraSharp 27 4K",
+    description: "High-resolution monitor for color-accurate work and clear text.",
+    price: 450000,
+    category: "Home Electronics",
+    image: "https://images.unsplash.com/photo-1527443154391-420792ce66ba?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    id: "p12",
+    name: "Logitech MX Master 3S",
+    description: "Ergonomic wireless mouse for peak productivity.",
+    price: 85000,
+    category: "Accessories",
+    image: "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=2067&auto=format&fit=crop"
+  },
+  {
+    id: "p13",
+    name: "Samsung Galaxy S23 Ultra",
+    description: "Flagship mobile powerhouse with stylus integration.",
+    price: 950000,
+    category: "Smartphones",
+    image: "https://images.unsplash.com/photo-1678911820864-eab87d4bdcd7?q=80&w=2127&auto=format&fit=crop"
+  },
+  {
+    id: "p14",
+    name: "Anker 737 PowerBank 24K",
+    description: "Massive capacity portable charger capable of powering laptops.",
+    price: 135000,
+    category: "Accessories",
+    image: "https://images.unsplash.com/photo-1620189507195-68309c04c4d0?q=80&w=2070&auto=format&fit=crop"
   }
 ];
